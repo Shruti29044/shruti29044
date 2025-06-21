@@ -1,99 +1,129 @@
-# 👋 Hi, I'm Shruti Devani!
+# 👋 Hi, I'm Shruti Devani
 
-🎯 Fullstack Software Engineer | Data Analyst | AI Enthusiast  
-📍 Dallas, TX  
-📫 shrutidevani5@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/shruti-devani-7435031a6/)  
+🎯 Fullstack Software Engineer | Data Analyst | AI Enthusiast
+📍 Dallas, TX
+📫 [shrutidevani5@gmail.com](mailto:shrutidevani5@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/shruti-devani-7435031a6/)
 🔗 [GitHub Portfolio](https://github.com/Shruti29044)
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Fullstack Developer with strong experience in both backend & frontend development.
-- 📊 Data Analyst working with AI-powered dashboards, NLP pipelines, and real-time analytics.
-- ☁️ Skilled in cloud deployment using AWS and Azure.
-- 🤖 AI & Machine Learning enthusiast with hands-on experience building multimodal RAG systems.
-- 🧠 Passionate about solving real-world problems through data-driven solutions.
+* 💻 Fullstack Developer with strong experience in both backend & frontend development.
+* 📊 Data Analyst working with AI-powered dashboards, NLP pipelines, and real-time analytics.
+* ☁️ Skilled in cloud deployment using AWS and Azure.
+* 🤖 AI & Machine Learning enthusiast with hands-on experience building multimodal RAG systems.
+* 🧠 Passionate about solving real-world problems through data-driven solutions.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Programming Languages:
+
 `Java` `JavaScript` `Python` `C#` `SQL` `R` `C++`
 
 ### Frontend:
+
 `React.js` `Vue.js` `Angular` `Bootstrap` `Material UI` `HTML5` `CSS3` `Streamlit`
 
 ### Backend:
+
 `Node.js` `Express.js` `Flask` `FastAPI` `Django` `.NET Core` `RESTful APIs`
 
 ### Databases:
+
 `MySQL` `PostgreSQL` `MongoDB` `SQL Server` `Amazon DynamoDB` `Redshift`
 
 ### AI/ML & Data Science:
-`TensorFlow` `PyTorch` `Scikit-Learn` `Hugging Face Transformers` `NLP (BERT, GPT, spaCy, NLTK)`  
+
+`TensorFlow` `PyTorch` `Scikit-Learn` `Hugging Face Transformers` `NLP (BERT, GPT, spaCy, NLTK)`
 `Time Series Forecasting (ARIMA, XGBoost, LSTMs)` `Anomaly Detection (Autoencoders, Isolation Forest)`
 
 ### Cloud & DevOps:
+
 `AWS (EC2, Lambda, S3, Glue)` `Azure` `Docker` `Kubernetes` `Jenkins` `Apache Kafka` `Apache Airflow`
 
 ### Tools & Platforms:
+
 `Tableau` `Power BI` `Jupyter Notebook` `GitHub` `Jira` `ServiceNow` `Trello`
 
 ---
 
 ## 📈 Featured Projects
 
-### 🧭 VoyageAI: AI-powered Travel Planner
+### [VoyageAI: AI-Powered Travel Planner](https://github.com/Shruti29044/VoyageAI)
 
-- Built a real-time multimodal RAG system leveraging FAISS, ChromaDB, Mistral, CLIP, ResNet, and real-time weather API.
-- Deployed on Hugging Face Spaces with Streamlit UI, FastAPI backend, AWS Lambda, Docker & Kubernetes.
-- 📈 Boosted user engagement by 40%.
+Built a real-time Multimodal Retrieval-Augmented Generation (RAG) system to unify text, image, and real-time data for intelligent trip planning.
 
-### 📰 FakeLens: AI-Powered Fake News Detector
+* Streamlit UI, FastAPI backend, Hugging Face Spaces deployment
+* FAISS, CLIP, ResNet, ChromaDB for multimodal search
+* AWS Lambda, Docker, Kubernetes deployment
+* Reduced trip planning time by 50%
 
-- Integrated Vision-Language Models (CLIP, BLIP), BERT-based NLP, TF-IDF, and CNN-based image forgery detection.
-- Achieved 87% accuracy in misinformation classification.
-- Deployed via FastAPI + Streamlit + AWS + Docker + Jenkins.
+### [FakeLens: AI-Powered Fake News Detection System](https://github.com/Shruti29044/FakeLens)
 
-### 🗓 Task Tracker
+AI-powered pipeline combining Vision-Language Models with NLP and Image Forensics to classify fake news.
 
-- Dynamic task management SPA using Vue 3, Vite, and Axios.
-- Migrated legacy Vue 2 architecture and improved build time by 60%.
+* Streamlit frontend, FastAPI backend, deployed on AWS EC2
+* CLIP, BLIP, BERT, CNN, Isolation Forest models
+* Automated CI/CD with Jenkins
+* Achieved 87% classification accuracy
 
-### 🔧 E-Commerce Platform
+### [Notes App (Fullstack CRUD System)](https://github.com/Shruti29044/NotesApp-Fullstack)
 
-- Built an e-commerce website using JavaScript, PHP, MySQL, AWS EC2, and Bootstrap.
-- Reduced page load time by 60%, increasing conversion rate by 25%.
+Fully responsive fullstack Notes App with user authentication, image uploads, pagination, and Material UI design.
+
+* React frontend, Node.js backend, MongoDB database
+* JWT-based authentication
+* Material UI for responsive design
+* Ready for cloud deployment
+
+---
+
+## 🔗 Other Projects
+
+* [Task Tracker Vue 3](https://github.com/Shruti29044/task-tracker-vue3)
+* [Ecommerce Platform](https://github.com/Shruti29044/EcommercePlatform)
+* [Car Rental Web App](https://github.com/Shruti29044/CarRentalWebApp)
+* [Jenkins AWS CI/CD Pipeline](https://github.com/Shruti29044/Jenkins-AWS-CICD)
+* [Serverless API AWS Lambda](https://github.com/Shruti29044/Serverless-API-AWS-Lambda)
+* [Anomaly Detection Models](https://github.com/Shruti29044/Anomaly-Detection-Models)
+* [Credit Card Fraud Detection ML](https://github.com/Shruti29044/CreditCard-Fraud-Detection-ML)
+* [Time Series Forecasting Projects](https://github.com/Shruti29044/Time-Series-Forecasting)
+* [NLP Sentiment Analysis](https://github.com/Shruti29044/Sentiment-Analysis-NLP)
+* [Resume Parser API](https://github.com/Shruti29044/Resume-Parser-API)
+* [Data Engineering Pipelines](https://github.com/Shruti29044/Data-Engineering-Pipeline)
+* [Tableau & Power BI Dashboards](https://github.com/Shruti29044/Tableau-PowerBI-Dashboards)
 
 ---
 
 ## 💼 Professional Experience
 
 ### Data Analyst — ZealTech US
-- Built AI-powered dashboards (Tableau, Power BI, Streamlit) integrating LLMs (GPT, BERT).
-- Automated ETL pipelines with Airflow, Glue, Redshift, Kafka, Spark.
-- Deployed forecasting, anomaly detection, and NLP models for predictive analytics.
+
+* AI-powered dashboards (Tableau, Power BI, Streamlit)
+* ETL automation with Airflow, Glue, Redshift, Kafka, Spark
+* Forecasting, anomaly detection, and NLP predictive models
 
 ---
 
-## 🎯 Certifications
+## 🎓 Certifications
 
-- AWS Machine Learning
-- Google Cloud Product Fundamentals
-- IBM Artificial Intelligence & Big Data Modeling
+* AWS Machine Learning
+* Google Cloud Product Fundamentals
+* IBM Artificial Intelligence & Big Data Modeling
 
 ---
 
 ## 📊 GitHub Stats
 
-![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shruti29044&show_icons=true&theme=radical)
+![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shruti29044\&show_icons=true\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shruti29044\&layout=compact)
 
 ---
 
-> _“Transforming data into insights, and insights into action!”_
+> *“Transforming data into insights, and insights into action!”*
 
 ---
-
