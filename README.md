@@ -62,7 +62,7 @@ Built a real-time Multimodal Retrieval-Augmented Generation (RAG) system to unif
 * AWS Lambda, Docker, Kubernetes deployment
 * Reduced trip planning time by 50%
 
-### [FakeLens: AI-Powered Fake News Detection System]([https://github.com/Shruti29044/FakeLens](https://github.com/Shruti29044/FakeLens-AI-Powered-Fake-News-Detector-VLM-RAG-))
+### FakeLens: AI-Powered Fake News Detection System
 
 AI-powered pipeline combining Vision-Language Models with NLP and Image Forensics to classify fake news.
 
