@@ -2,7 +2,7 @@
 
 🎯 Fullstack Software Engineer | Data Analyst | AI Enthusiast
 📍 Dallas, TX
-📫 [shrutidevani5@gmail.com](mailto:shrutidevani5@gmail.com)
+📩 [shrutidevani5@gmail.com](mailto:shrutidevani5@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/shruti-devani-7435031a6/)
 🔗 [GitHub Portfolio](https://github.com/Shruti29044)
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🔧 Tech Stack
 
 ### Programming Languages:
 
@@ -62,7 +62,7 @@ Built a real-time Multimodal Retrieval-Augmented Generation (RAG) system to unif
 * AWS Lambda, Docker, Kubernetes deployment
 * Reduced trip planning time by 50%
 
-### FakeLens: AI-Powered Fake News Detection System
+### [FakeLens: AI-Powered Fake News Detection System](https://github.com/Shruti29044/FakeLens-AI-Powered-Fake-News-Detector-VLM-RAG-)
 
 AI-powered pipeline combining Vision-Language Models with NLP and Image Forensics to classify fake news.
 
@@ -71,7 +71,7 @@ AI-powered pipeline combining Vision-Language Models with NLP and Image Forensic
 * Automated CI/CD with Jenkins
 * Achieved 87% classification accuracy
 
-### [Notes App (Fullstack CRUD System)]([https://github.com/Shruti29044/NotesApp-Fullstack](https://github.com/Shruti29044/Fullstack-Notes-App-with-Authentication-Material-UI-))
+### [Notes App (Fullstack CRUD System)](https://github.com/Shruti29044/Fullstack-Notes-App-with-Authentication-Material-UI-)
 
 Fully responsive fullstack Notes App with user authentication, image uploads, pagination, and Material UI design.
 
@@ -84,18 +84,35 @@ Fully responsive fullstack Notes App with user authentication, image uploads, pa
 
 ## 🔗 Other Projects
 
-* [Task Tracker Vue 3](https://github.com/Shruti29044/task-tracker-vue3)
-* [Ecommerce Platform](https://github.com/Shruti29044/EcommercePlatform)
-* [Car Rental Web App](https://github.com/Shruti29044/CarRentalWebApp)
-* [Jenkins AWS CI/CD Pipeline](https://github.com/Shruti29044/Jenkins-AWS-CICD)
-* [Serverless API AWS Lambda](https://github.com/Shruti29044/Serverless-API-AWS-Lambda)
-* [Anomaly Detection Models](https://github.com/Shruti29044/Anomaly-Detection-Models)
-* [Credit Card Fraud Detection ML](https://github.com/Shruti29044/CreditCard-Fraud-Detection-ML)
-* [Time Series Forecasting Projects](https://github.com/Shruti29044/Time-Series-Forecasting)
-* [NLP Sentiment Analysis](https://github.com/Shruti29044/Sentiment-Analysis-NLP)
-* [Resume Parser API](https://github.com/Shruti29044/Resume-Parser-API)
-* [Data Engineering Pipelines](https://github.com/Shruti29044/Data-Engineering-Pipeline)
-* [Tableau & Power BI Dashboards](https://github.com/Shruti29044/Tableau-PowerBI-Dashboards)
+* [Fullstack-Notes-App-with-Authentication-Material-UI-](https://github.com/Shruti29044/Fullstack-Notes-App-with-Authentication-Material-UI-)
+* [Telecom-Billing-System-](https://github.com/Shruti29044/Telecom-Billing-System-)
+* [Enterprise-Order-Management-System](https://github.com/Shruti29044/Enterprise-Order-Management-System)
+* [Advanced-Churn-Analysis](https://github.com/Shruti29044/Advanced-Churn-Analysis)
+* [Customer-Churn-Analyzer](https://github.com/Shruti29044/Customer-Churn-Analyzer)
+* [Supply-Chain-Optimization-Simulator](https://github.com/Shruti29044/Supply-Chain-Optimization-Simulator)
+* [Business-Scenario-SImulator](https://github.com/Shruti29044/Business-Scenario-SImulator)
+* [Secure-Chat-Messenger-with-Java](https://github.com/Shruti29044/Secure-Chat-Messenger-with-Java)
+* [AI-Tutor-Pro-](https://github.com/Shruti29044/AI-Tutor-Pro-)
+* [Full-Stack-Real-Time-Chat-App-](https://github.com/Shruti29044/Full-Stack-Real-Time-Chat-App-)
+* [Mood-Journal-with-AI-](https://github.com/Shruti29044/Mood-Journal-with-AI-)
+* [Real-Time-Ecommerce-Pipeline](https://github.com/Shruti29044/Real-Time-Ecommerce-Pipeline)
+* [Task-Tracker-with-vue.js](https://github.com/Shruti29044/Task-Tracker-with-vue.js)
+* [Student-Grade-Manager-with-Java](https://github.com/Shruti29044/Student-Grade-Manager-with-Java)
+* [Customer-Purchase-Analytics](https://github.com/Shruti29044/Customer-Purchase-Analytics)
+* [Advanced-To-Do-List-with-React-](https://github.com/Shruti29044/Advanced-To-Do-List-with-React-)
+* [To-Do-List-](https://github.com/Shruti29044/To-Do-List-)
+* [Network-Monitoring-Tool-with-ICMP-](https://github.com/Shruti29044/Network-Monitoring-Tool-with-ICMP-)
+* [Network-Traffic-Analyzer](https://github.com/Shruti29044/Network-Traffic-Analyzer)
+* [Gradient-Descent-in-Scala](https://github.com/Shruti29044/Gradient-Descent-in-Scala)
+* [Matrix-Multiplication-using-Hadoop-MapReduce](https://github.com/Shruti29044/Matrix-Multiplication-using-Hadoop-MapReduce)
+* [RPC-based-communication.](https://github.com/Shruti29044/RPC-based-communication.)
+* [FakeLens-AI-Powered-Fake-News-Detector-VLM-RAG-](https://github.com/Shruti29044/FakeLens-AI-Powered-Fake-News-Detector-VLM-RAG-)
+* [Stock-Price-Prediction-using-AI-](https://github.com/Shruti29044/Stock-Price-Prediction-using-AI-)
+* [voyageAI](https://github.com/Shruti29044/voyageAI)
+* [CSE-5311-Design-and-Analysis-of-Algorithms](https://github.com/Shruti29044/CSE-5311-Design-and-Analysis-of-Algorithms)
+* [Machine-Learning-6363](https://github.com/Shruti29044/Machine-Learning-6363)
+* [Disease-Prediction-using-AI](https://github.com/Shruti29044/Disease-Prediction-using-AI)
+* [Word-Cloud-in-Python](https://github.com/Shruti29044/Word-Cloud-in-Python)
 
 ---
 
