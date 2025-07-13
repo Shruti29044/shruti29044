@@ -118,11 +118,11 @@ Fully responsive fullstack Notes App with user authentication, image uploads, pa
 
 ## 💼 Professional Experience
 
-### Data Analyst — ZealTech US
+### Business Data Analyst — CVS Health 
 
-* AI-powered dashboards (Tableau, Power BI, Streamlit)
-* ETL automation with Airflow, Glue, Redshift, Kafka, Spark
-* Forecasting, anomaly detection, and NLP predictive models
+* KPI dashboards and reporting automation (Power BI, SQL, AWS Lambda)
+* ETL optimization and data governance (S3, SAP, Python)
+* Sentiment analysis and impact modeling (NLP, Pandas, NumPy)
 
 ---
 
